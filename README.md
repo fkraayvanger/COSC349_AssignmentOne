@@ -3,6 +3,7 @@
 This is a project that contains three Virtual Machines (VMs), in which are ran off of Vagrant and VirtualBox.
 
 Download Instructions:
+
 In order to reassemble this project, you must have two relatively basic applications downloaded. Vagrant and VirtualBox. Both are servicable on Mac OS, Windows, Linux.. Personally, in order for these files to work efficiently, I would recommend downloading my installed versions.
 
 Vagrant: https://www.vagrantup.com/downloads Newest VERSION 2.2.18
