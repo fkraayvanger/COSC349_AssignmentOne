@@ -7,11 +7,15 @@ Download Instructions:
 In order to reassemble this project, you must have two relatively basic applications downloaded. Vagrant and VirtualBox. Both are servicable on Mac OS, Windows, Linux.. Personally, in order for these files to work efficiently, I would recommend downloading my installed versions.
 
 Vagrant: https://www.vagrantup.com/downloads Newest VERSION 2.2.18
+
 --> My Installed VERSION 2.2.7
+
 VirtualBox: https://www.virtualbox.org/wiki/Downloads Newest Version 6.1.26
+
 --> My Installed VERSION 6.1.16
 
 GitClone Instructions:
+
 To gain access to these files from your own personal computer, use the terminal (cmd) and type the following:
 git clone https://github.com/fkraayvanger/COSC349_AssignmentOne CHOSENDIRECTORY
 
